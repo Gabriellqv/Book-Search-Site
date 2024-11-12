@@ -16,3 +16,9 @@ BookHub é uma aplicação web que permite aos usuários buscar livros por títu
 - **Página de Detalhes**: Visualize mais informações sobre um livro, como autor, edição, ano de publicação, etc.
 - **Responsividade**: O layout se adapta a diferentes tamanhos de tela (desktop e mobile).
 - **Acessibilidade**: Foco automático no campo de pesquisa e navegação amigável.
+
+## Link para o Projeto
+
+Você pode acessar o projeto clicando no link abaixo:
+
+[**Clique aqui**](https://book-search-site-self.vercel.app)
